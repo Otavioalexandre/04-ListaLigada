@@ -1,4 +1,9 @@
 # Lista Ligada
+
+## Dados do aluno
+
+* E-mail: otavio.ferreira01@fatec.sp.gov.br
+* Nome completo: Otávio Alexandre de Camargo Ferreira
 ---
 
 ## Objetivos
